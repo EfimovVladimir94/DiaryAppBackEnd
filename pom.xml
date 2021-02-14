@@ -12,6 +12,7 @@
     <artifactId>DiaryBack</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>DiaryBack</name>
+    <packaging>war</packaging>
     <properties>
         <java.version>11</java.version>
         <org.mapstruct.version>1.4.2.Final</org.mapstruct.version>
